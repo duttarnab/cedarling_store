@@ -1,0 +1,2 @@
+@id("")
+permit(principal == Jans::User::"", action == Jans::Action::"Execute", resource) when { ((principal["custom_token"])["scopes"]).containsAll(resource["scopes"]) };
