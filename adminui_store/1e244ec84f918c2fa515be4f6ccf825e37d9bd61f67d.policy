@@ -1,0 +1,6 @@
+@id("Admin UI authorization policy")
+permit (
+  principal is Jans::User,
+  action in [Jans::Action::"Execute"],
+  resource
+);
