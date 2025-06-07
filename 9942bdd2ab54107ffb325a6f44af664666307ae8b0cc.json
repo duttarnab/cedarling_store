@@ -9,6 +9,11 @@
                     "description": "",
                     "creation_date": "2025-06-07T11:42:33.329260",
                     "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsID09IEphbnM6OlVzZXI6OiIiLCBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiRXhlY3V0ZSIsIHJlc291cmNlKSB3aGVuIHsgKChwcmluY2lwYWxbImN1c3RvbV90b2tlbiJdKVsic2NvcGVzIl0pLmNvbnRhaW5zQWxsKHJlc291cmNlWyJzY29wZXMiXSkgfTs="
+                },
+                "1e244ec84f918c2fa515be4f6ccf825e37d9bd61f67d": {
+                    "description": "Admin UI authorization policy",
+                    "creation_date": "2025-06-07T11:55:48.393082",
+                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJFeGVjdXRlIl0sCiAgcmVzb3VyY2UKKTsK"
                 }
             },
             "trusted_issuers": {},
