@@ -1,0 +1,9 @@
+@id("Admin UI authorization policy")
+permit (
+  principal is Jans::User,
+  action == Jans::Action::"Execute",
+  resource
+)
+when {
+  principal.scopes.containsAll(resource.scopes)
+};
