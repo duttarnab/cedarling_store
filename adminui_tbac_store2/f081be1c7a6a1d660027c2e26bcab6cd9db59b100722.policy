@@ -1,0 +1,18 @@
+@id("Admin UI authorization policy")
+permit (
+  principal is Jans::Workload,
+  action == Jans::Action::"Execute",
+  resource
+)
+when {
+     // The string containing space-separated roles
+    resource.scope like "* ${principal.api_protection_token.token_introspection.scope
+} *" ||
+    resource.scope like "${
+  principal.api_protection_token.token_introspection.scope
+} *" ||
+    resource.scope like "* ${
+  principal.api_protection_token.token_introspection.scope
+}" ||
+    resource.scope == principal.api_protection_token.token_introspection.scope
+};
