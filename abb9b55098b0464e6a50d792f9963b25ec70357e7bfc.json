@@ -11,6 +11,26 @@
                     "description": "Admin UI Trusted Issuer",
                     "openid_configuration_endpoint": "https://admin-ui-test.gluu.org/.well-known/openid-configuration",
                     "token_metadata": {
+                        "access_token": {
+                            "trusted": true,
+                            "entity_type_name": "Jans::Access_token",
+                            "user_id": "sub",
+                            "token_id": "jti",
+                            "workload_id": "rp_id",
+                            "claim_mapping": {},
+                            "required_claims": [
+                                "jti",
+                                "iss",
+                                "aud",
+                                "sub",
+                                "exp",
+                                "nbf"
+                            ],
+                            "role_mapping": "role",
+                            "principal_mapping": [
+                                "Jans::Workload"
+                            ]
+                        },
                         "userinfo_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Userinfo_token",
