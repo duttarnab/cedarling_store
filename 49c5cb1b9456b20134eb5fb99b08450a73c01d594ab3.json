@@ -62,7 +62,7 @@
                         "api_protection_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Api_protection_token",
-                            "token_id": "aud",
+                            "token_id": "jti",
                             "claim_mapping": {},
                             "required_claims": [
                                 "iss",
