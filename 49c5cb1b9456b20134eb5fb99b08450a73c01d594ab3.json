@@ -70,7 +70,7 @@
                                 "token_introspection"
                             ],
                             "principal_mapping": [
-                                "Jans::Workload"
+                                "Jans::User"
                             ]
                         }
                     }
