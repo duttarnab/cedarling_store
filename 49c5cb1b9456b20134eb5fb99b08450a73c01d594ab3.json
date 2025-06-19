@@ -62,8 +62,8 @@
                         "api_protection_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Api_protection_token",
-                            "token_id": "aud",
-                            "workload_id": "rp_id",
+                            "token_id": "iss",
+                            "workload_id": "aud",
                             "claim_mapping": {},
                             "required_claims": [
                                 "iss",
