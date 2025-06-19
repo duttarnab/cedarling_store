@@ -5,5 +5,5 @@ permit (
   resource
 )
 when {
-  principal.api_protection_token.token_introspection.scope.contains(resource.scope)
+  principal.api_protection_token.scope.contains(resource.scope)
 };
