@@ -5,14 +5,5 @@ permit (
   resource
 )
 when {
-     // The string containing space-separated roles
-    resource.scope like "* ${principal.api_protection_token.token_introspection.scope
-} *" ||
-    resource.scope like "${
-  principal.api_protection_token.token_introspection.scope
-} *" ||
-    resource.scope like "* ${
-  principal.api_protection_token.token_introspection.scope
-}" ||
-    resource.scope == principal.api_protection_token.token_introspection.scope
+  principal.api_protection_token.token_introspection.scope.contains(resource.scope)
 };
