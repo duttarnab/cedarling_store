@@ -8,7 +8,7 @@
                 "f48a3adc3b6d962e6e33c8978e976cc21d19f03056bf": {
                     "description": "Admin UI authorization policy",
                     "creation_date": "2025-06-18T14:04:41.695099",
-                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6Oldvcmtsb2FkLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZQopCndoZW4gewogICAgIC8vIFRoZSBzdHJpbmcgY29udGFpbmluZyBzcGFjZS1zZXBhcmF0ZWQgcm9sZXMKICAgIHJlc291cmNlLnNjb3BlIGxpa2UgIiogJHtwcmluY2lwYWwuYXBpX3Byb3RlY3Rpb25fdG9rZW4udG9rZW5faW50cm9zcGVjdGlvbi5zY29wZX0gKiIgfHwKICAgIHJlc291cmNlLnNjb3BlIGxpa2UgIiR7cHJpbmNpcGFsLmFwaV9wcm90ZWN0aW9uX3Rva2VuLnRva2VuX2ludHJvc3BlY3Rpb24uc2NvcGV9ICoiIHx8CiAgICByZXNvdXJjZS5zY29wZSBsaWtlICIqICR7cHJpbmNpcGFsLmFwaV9wcm90ZWN0aW9uX3Rva2VuLnRva2VuX2ludHJvc3BlY3Rpb24uc2NvcGV9IiB8fAogICAgcmVzb3VyY2Uuc2NvcGUgPT0gcHJpbmNpcGFsLmFwaV9wcm90ZWN0aW9uX3Rva2VuLnRva2VuX2ludHJvc3BlY3Rpb24uc2NvcGUKfTs="
+                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlNjb3BlLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZQopOw=="
                 }
             },
             "trusted_issuers": {
