@@ -2,5 +2,5 @@
 permit (
   principal is Jans::Scope,
   action == Jans::Action::"Execute",
-  resource
+  resource is Jans::Application
 );
