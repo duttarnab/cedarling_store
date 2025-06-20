@@ -8,7 +8,7 @@
                 "f48a3adc3b6d962e6e33c8978e976cc21d19f03056bf": {
                     "description": "Admin UI authorization policy",
                     "creation_date": "2025-06-18T14:04:41.695099",
-                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlNjb3BlLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZQopOw=="
+                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlNjb3BlLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpBcHBsaWNhdGlvbgopOw=="
                 }
             },
             "trusted_issuers": {
