@@ -20,13 +20,12 @@
                         "api_protection_token": {
                             "trusted": true,
                             "entity_type_name": "Jans::Api_protection_token",
-                            "token_id": "aud",
-                            "workload_id": "rp_id",
+                            "token_id": "scope",
                             "claim_mapping": {},
                             "required_claims": [
                                 "iss",
                                 "aud",
-                                "token_introspection"
+                                "scope"
                             ],
                             "principal_mapping": [
                                 "Jans::Scope"
