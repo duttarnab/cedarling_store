@@ -1,9 +1,6 @@
 @id("Admin UI authorization policy")
 permit (
-  principal is Jans::User,
-  action == Jans::Action::"Execute",
-  resource
-)
-when {
-  principal.api_protection_token.scope.contains(resource.scope)
-};
+  principal in Jans::Role::"api-admin2",
+  action in Jans::Action::"Execute",
+  resource is Jans::Application
+);
