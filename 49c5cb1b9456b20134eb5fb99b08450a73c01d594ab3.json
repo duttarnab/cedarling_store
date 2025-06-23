@@ -32,7 +32,6 @@
                                 "exp",
                                 "nbf"
                             ],
-                            "role_mapping": "role",
                             "principal_mapping": [
                                 "Jans::Workload"
                             ]
@@ -42,7 +41,6 @@
                             "entity_type_name": "Jans::id_token",
                             "user_id": "sub",
                             "token_id": "jti",
-                            "role_mapping": "role",
                             "claim_mapping": {},
                             "principal_mapping": [
                                 "Jans::User"
@@ -53,7 +51,7 @@
                             "entity_type_name": "Jans::Userinfo_token",
                             "user_id": "sub",
                             "token_id": "jti",
-                            "role_mapping": "role",
+                            "role_mapping": "jansAdminUIRole",
                             "claim_mapping": {},
                             "principal_mapping": [
                                 "Jans::User"
