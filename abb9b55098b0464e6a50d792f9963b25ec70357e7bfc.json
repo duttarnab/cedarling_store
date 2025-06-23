@@ -27,7 +27,7 @@
                                 "scope"
                             ],
                             "principal_mapping": [
-                                "Jans::Scope"
+                                "Jans::User"
                             ]
                         },
                         "userinfo_token": {
