@@ -1,6 +1,6 @@
 @id("Admin UI authorization policy")
 permit (
-  principal is Jans::Scope,
-  action == Jans::Action::"Execute",
+  principal in Jans::Role::"api-admin",
+  action in Jans::Action::"AttributesReadonly",
   resource is Jans::Application
 );
