@@ -1,6 +1,0 @@
-@id("Admin UI authorization policy")
-permit (
-  principal in Jans::Role::"api-admin",
-  action in Jans::Action::"Execute",
-  resource == Jans::Feature::"https://jans.io/oauth/jans-auth-server/session.readonly"
-);
