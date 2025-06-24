@@ -8,7 +8,7 @@
                 "f081be1c7a6a1d660027c2e26bcab6cd9db59b100722": {
                     "description": "Admin UI authorization policy",
                     "creation_date": "2025-06-18T20:25:23.428322",
-                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhcGktYWRtaW4iLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSA9PSBKYW5zOjpGZWF0dXJlOjoiaHR0cHM6Ly9qYW5zLmlvL29hdXRoL2phbnMtYXV0aC1zZXJ2ZXIvc2Vzc2lvbi5yZWFkb25seSIKKTsKCkBpZCgiQWRtaW4gVUkgYXV0aG9yaXphdGlvbiBwb2xpY3kiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYXBpLXZpZXdlciIsCiAgYWN0aW9uIGluIEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiLAogIHJlc291cmNlID09IEphbnM6OkZlYXR1cmU6OiJodHRwczovL2phbnMuaW8vb2F1dGgvamFucy1hdXRoLXNlcnZlci9zZXNzaW9uLnJlYWRvbmx5IgopOw=="
+                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhcGktYWRtaW4iLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSA9PSBKYW5zOjpGZWF0dXJlOjoiaHR0cHM6Ly9qYW5zLmlvL29hdXRoL2phbnMtYXV0aC1zZXJ2ZXIvc2Vzc2lvbi5yZWFkb25seSIKKTsKCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhcGktdmlld2VyIiwKICBhY3Rpb24gaW4gSmFuczo6QWN0aW9uOjoiRXhlY3V0ZSIsCiAgcmVzb3VyY2UgPT0gSmFuczo6RmVhdHVyZTo6Imh0dHBzOi8vamFucy5pby9vYXV0aC9qYW5zLWF1dGgtc2VydmVyL3Nlc3Npb24ucmVhZG9ubHkiCik7"
                 }
             },
             "trusted_issuers": {
