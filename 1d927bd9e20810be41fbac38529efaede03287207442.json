@@ -5,11 +5,6 @@
             "name": "adminui_tbac_store",
             "description": "Admin UI TBAC store",
             "policies": {
-                "11b34b64dffdd0a156a36fdc5b3642b99de41cd64bbd": {
-                    "description": "Admin UI authorization policy",
-                    "creation_date": "2025-06-24T09:14:53.435296",
-                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhcGktYWRtaW4iLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSA9PSBKYW5zOjpGZWF0dXJlOjoiaHR0cHM6Ly9qYW5zLmlvL29hdXRoL2phbnMtYXV0aC1zZXJ2ZXIvc2Vzc2lvbi5yZWFkb25seSIKKTs="
-                },
                 "27c7009394b34dff13314bd1e5d833be795a74b14c78": {
                     "description": "",
                     "creation_date": "2025-06-24T19:03:54.710311",
