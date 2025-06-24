@@ -1,6 +1,6 @@
 @id("Admin UI authorization policy")
 permit (
-  principal in Gluu::Role::"api-admin",
-  action in Gluu::Action::"Execute",
-  resource == Gluu::Feature::"https://jans.io/oauth/jans-auth-server/session.readonly"
+  principal in Jans::Role::"api-admin",
+  action in Jans::Action::"Execute",
+  resource == Jans::Feature::"https://jans.io/oauth/jans-auth-server/session.readonly"
 );
