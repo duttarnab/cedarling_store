@@ -1,6 +1,0 @@
-@id("Admin UI authorization policy")
-permit (
-  principal in Jans::Role::"api-admin3",
-  action in Jans::Action::"AttributesReadonly",
-  resource is Jans::Application
-);
