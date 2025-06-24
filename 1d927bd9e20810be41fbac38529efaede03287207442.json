@@ -19,7 +19,7 @@
                     "token_metadata": {
                         "access_token": {
                             "trusted": true,
-                            "entity_type_name": "Jans::Access_token",
+                            "entity_type_name": "Gluu::Access_token",
                             "user_id": "sub",
                             "token_id": "jti",
                             "workload_id": "rp_id",
@@ -33,28 +33,28 @@
                                 "nbf"
                             ],
                             "principal_mapping": [
-                                "Jans::Workload"
+                                "Gluu::Workload"
                             ]
                         },
                         "id_token": {
                             "trusted": true,
-                            "entity_type_name": "Jans::id_token",
+                            "entity_type_name": "Gluu::id_token",
                             "user_id": "sub",
                             "token_id": "jti",
                             "claim_mapping": {},
                             "principal_mapping": [
-                                "Jans::User"
+                                "Gluu::User"
                             ]
                         },
                         "userinfo_token": {
                             "trusted": true,
-                            "entity_type_name": "Jans::Userinfo_token",
+                            "entity_type_name": "Gluu::Userinfo_token",
                             "user_id": "sub",
                             "token_id": "jti",
                             "role_mapping": "jansAdminUIRole",
                             "claim_mapping": {},
                             "principal_mapping": [
-                                "Jans::User"
+                                "Gluu::User"
                             ]
                         }
                     }
