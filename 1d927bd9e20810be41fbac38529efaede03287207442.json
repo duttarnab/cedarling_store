@@ -9,6 +9,11 @@
                     "description": "Admin UI authorization policy",
                     "creation_date": "2025-06-24T09:14:53.435296",
                     "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhcGktYWRtaW4iLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSA9PSBKYW5zOjpGZWF0dXJlOjoiaHR0cHM6Ly9qYW5zLmlvL29hdXRoL2phbnMtYXV0aC1zZXJ2ZXIvc2Vzc2lvbi5yZWFkb25seSIKKTs="
+                },
+                "2b5978a190e05f88e7d734a37c7bec1940c9b69eacc6": {
+                    "description": "",
+                    "creation_date": "2025-06-24T19:00:38.556784",
+                    "policy_content": "cGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFwaS12aWV3ZXIiLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJSZWFkIiwKICByZXNvdXJjZSBpbiBKYW5zOjpGZWF0dXJlOjoiYW55IgopCndoZW4gewogIHJlc291cmNlIGluIFsKICAgIEphbnM6OkZlYXR1cmU6OiJodHRwczovL2phbnMuaW8vb2F1dGgvY29uZmlnL2F0dHJpYnV0ZXMucmVhZG9ubHkiLAogICAgSmFuczo6RmVhdHVyZTo6Imh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvYWNycy5yZWFkb25seSIKICBdCn07"
                 }
             },
             "trusted_issuers": {
