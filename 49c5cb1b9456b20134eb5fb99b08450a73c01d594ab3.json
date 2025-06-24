@@ -9,6 +9,11 @@
                     "description": "Admin UI authorization policy",
                     "creation_date": "2025-06-18T20:25:23.428322",
                     "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhcGktYWRtaW4iLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSA9PSBKYW5zOjpGZWF0dXJlOjoiaHR0cHM6Ly9qYW5zLmlvL29hdXRoL2phbnMtYXV0aC1zZXJ2ZXIvc2Vzc2lvbi5yZWFkb25seSIKKTsK"
+                },
+                "f96c2583d8edb7307ff18586652092c5da2eebe5f4b7": {
+                    "description": "",
+                    "creation_date": "2025-06-24T08:03:27.375796",
+                    "policy_content": "cGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFwaS12aWV3ZXIiLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSA9PSBKYW5zOjpGZWF0dXJlOjoiaHR0cHM6Ly9qYW5zLmlvL29hdXRoL2phbnMtYXV0aC1zZXJ2ZXIvc2Vzc2lvbi5yZWFkb25seSIKKTs="
                 }
             },
             "trusted_issuers": {
