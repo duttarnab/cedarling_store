@@ -1,0 +1,11 @@
+permit (
+  principal in Jans::Role::"api-viewer",
+  action in Jans::Action::"Read",
+  resource in Jans::Feature::"any"
+)
+when {
+  resource in [
+    Jans::Feature::"https://jans.io/oauth/config/attributes.readonly",
+    Jans::Feature::"https://jans.io/oauth/config/acrs.readonly"
+  ]
+};
