@@ -5,7 +5,6 @@ permit (
   resource == Jans::Feature::"https://jans.io/oauth/jans-auth-server/session.readonly"
 );
 
-@id("Admin UI authorization policy")
 permit (
   principal in Jans::Role::"api-viewer",
   action in Jans::Action::"Execute",
