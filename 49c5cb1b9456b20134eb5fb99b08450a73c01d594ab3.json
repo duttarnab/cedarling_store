@@ -56,20 +56,6 @@
                             "principal_mapping": [
                                 "Jans::User"
                             ]
-                        },
-                        "api_protection_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Api_protection_token",
-                            "token_id": "aud",
-                            "claim_mapping": {},
-                            "required_claims": [
-                                "iss",
-                                "aud",
-                                "scope"
-                            ],
-                            "principal_mapping": [
-                                "Jans::User"
-                            ]
                         }
                     }
                 }
