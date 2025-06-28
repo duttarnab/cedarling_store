@@ -1,5 +1,5 @@
 permit (
   principal in Jans::Role::"api-editor",
   action in Jans::Action::"Write",
-  resource == Jans::Feature::"https://jans.io/oauth/config/scripts.write"
+  resource == Jans::Feature::"scripts"
 );
