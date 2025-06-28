@@ -1,5 +1,5 @@
 permit (
   principal in Jans::Role::"api-viewer",
   action in Jans::Action::"Read",
-  resource == Jans::Feature::"https://jans.io/oauth/config/attributes.readonly"
+  resource == Jans::Feature::"attributes"
 );
