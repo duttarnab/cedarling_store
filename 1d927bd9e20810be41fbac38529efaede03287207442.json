@@ -13,7 +13,7 @@
                 "e775ad0accdcfcf4af1a6f64a53065dcf30368440dce": {
                     "description": "",
                     "creation_date": "2025-06-25T07:31:08.805176",
-                    "policy_content": "cGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFwaS1lZGl0b3IiLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJXcml0ZSIsCiAgcmVzb3VyY2UgPT0gSmFuczo6RmVhdHVyZTo6Imh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvc2NyaXB0cy53cml0ZSIKKTs="
+                    "policy_content": "cGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFwaS1lZGl0b3IiLAogIGFjdGlvbiBpbiBKYW5zOjpBY3Rpb246OiJXcml0ZSIsCiAgcmVzb3VyY2UgPT0gSmFuczo6RmVhdHVyZTo6InNjcmlwdHMiCik7"
                 }
             },
             "trusted_issuers": {
