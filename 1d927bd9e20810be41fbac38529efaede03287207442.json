@@ -50,6 +50,15 @@
                             "principal_mapping": [
                                 "Jans::User"
                             ]
+                        },
+                        "cedarling_token": {
+                            "trusted": true,
+                            "entity_type_name": "Jans::Cedarling_token",
+                            "token_id": "jti",
+                            "claim_mapping": {},
+                            "principal_mapping": [
+                                "Jans::User"
+                            ]
                         }
                     }
                 }
