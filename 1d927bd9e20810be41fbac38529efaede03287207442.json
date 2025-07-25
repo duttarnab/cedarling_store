@@ -55,6 +55,7 @@
                             "trusted": true,
                             "entity_type_name": "Jans::Cedarling_token",
                             "token_id": "feature",
+                            "role_mapping": "role",
                             "claim_mapping": {},
                             "principal_mapping": [
                                 "Jans::RoleBasedFeatures"
