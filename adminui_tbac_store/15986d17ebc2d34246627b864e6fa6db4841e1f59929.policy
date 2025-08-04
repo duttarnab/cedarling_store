@@ -1,0 +1,5 @@
+permit (
+  principal in Jans::Role::"api-admin",
+  action in Jans::Action::"AdminActions",
+  resource in Jans::RoleBasedFeatures::"admin_features"
+);
