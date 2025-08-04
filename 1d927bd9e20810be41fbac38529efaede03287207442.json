@@ -4,7 +4,13 @@
         "1d927bd9e20810be41fbac38529efaede03287207442": {
             "name": "adminui_tbac_store",
             "description": "Admin UI TBAC store",
-            "policies": {},
+            "policies": {
+                "15986d17ebc2d34246627b864e6fa6db4841e1f59929": {
+                    "description": "",
+                    "creation_date": "2025-08-04T12:07:00.034262",
+                    "policy_content": "cGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImFwaS1hZG1pbiIsCiAgYWN0aW9uIGluIEphbnM6OkFjdGlvbjo6IkFkbWluQWN0aW9ucyIsCiAgcmVzb3VyY2UgaW4gSmFuczo6Um9sZUJhc2VkRmVhdHVyZXM6OiJhZG1pbl9mZWF0dXJlcyIKKTs="
+                }
+            },
             "trusted_issuers": {
                 "516ccb6d665d2ab37655a3a86d2d496495496c47015a": {
                     "name": "AdminUITrustedIssuer",
