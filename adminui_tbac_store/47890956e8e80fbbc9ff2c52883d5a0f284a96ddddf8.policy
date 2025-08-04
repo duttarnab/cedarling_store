@@ -1,0 +1,5 @@
+permit (
+  principal in Jans::Role::"api-viewer",
+  action in Jans::Action::"ViewerActions",
+  resource in Jans::RoleBasedFeatures::"viewer_features"
+);
