@@ -1,5 +1,5 @@
 permit(
-  principal in Jans::Role::"manager", 
-  action in [Gluu::Action::"Read", Gluu::Action::"Write"],
-  resource in Gluu::Resources::"scopes"
-);
+  principal in Jans::Role::"admin", 
+  action in [Gluu::Action::"Read", Gluu::Action::"Write", Gluu::Action::"Delete"],
+  resource in Gluu::Resources::"oidc"
+) ;
