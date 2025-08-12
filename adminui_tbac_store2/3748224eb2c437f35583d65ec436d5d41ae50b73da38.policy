@@ -1,0 +1,5 @@
+permit(
+  principal in Jans::Role::"manager", 
+  action in [Gluu::Action::"Read", Gluu::Action::"Write"],
+  resource in Gluu::Resources::"scopes"
+);
