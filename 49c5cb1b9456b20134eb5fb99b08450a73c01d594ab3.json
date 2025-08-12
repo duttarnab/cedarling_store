@@ -45,7 +45,7 @@
                             "entity_type_name": "Jans::Userinfo_token",
                             "user_id": "sub",
                             "token_id": "jti",
-                            "role_mapping": "role",
+                            "role_mapping": "jansAdminUIRole",
                             "claim_mapping": {},
                             "principal_mapping": [
                                 "Jans::User"
