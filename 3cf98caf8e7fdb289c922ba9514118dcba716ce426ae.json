@@ -6,9 +6,9 @@
             "description": "Admin UI Policy Store\t",
             "policies": {
                 "7c52efd895db799901d8590a2c5e3a76539d4a6de514": {
-                    "description": "Admin UI authorization policy",
+                    "description": "Authorization policy",
                     "creation_date": "2025-06-09T12:32:26.114299",
-                    "policy_content": "QGlkKCJBZG1pbiBVSSBhdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiLAogIHJlc291cmNlCikKd2hlbiB7CiAgcHJpbmNpcGFsLnNjb3Blcy5jb250YWluc0FsbChyZXNvdXJjZS5zY29wZXMpCn07"
+                    "policy_content": "QGlkKCJBdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhZG1pbiIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiLAogIHJlc291cmNlIGlzIEphbnM6OkFwcGxpY2F0aW9uCik7"
                 }
             },
             "trusted_issuers": {},
