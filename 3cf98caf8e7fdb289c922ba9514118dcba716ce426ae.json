@@ -8,7 +8,7 @@
                 "7c52efd895db799901d8590a2c5e3a76539d4a6de514": {
                     "description": "Authorization policy",
                     "creation_date": "2025-06-09T12:32:26.114299",
-                    "policy_content": "QGlkKCJBdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhZG1pbiIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiLAogIHJlc291cmNlIGlzIEphbnM6OkFwcGxpY2F0aW9uCik7"
+                    "policy_content": "QGlkKCJBdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhZG1pbiIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiLAogIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoibW9kdWxlMSIKKTs="
                 }
             },
             "trusted_issuers": {},
