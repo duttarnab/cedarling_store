@@ -2,5 +2,5 @@
 permit (
   principal in Jans::Role::"admin",
   action == Jans::Action::"Execute",
-  resource is Jans::Application
+  resource == Jans::Application::"module1"
 );
