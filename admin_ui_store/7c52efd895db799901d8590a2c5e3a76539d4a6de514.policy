@@ -1,6 +1,9 @@
 @id("Authorization policy")
 permit (
-  principal in Jans::Role::"admin",
+  principal is Jans::Workload,
   action == Jans::Action::"Execute",
-  resource == Jans::Application::"module1"
-);
+  resource is Jans::Application
+)
+when {
+  principal.client_id == resource.client_id
+};
