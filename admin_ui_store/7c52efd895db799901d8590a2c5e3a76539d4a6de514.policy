@@ -5,6 +5,5 @@ permit (
   resource is Jans::Application
 )
 when {
-  principal.client_id == resource.client_id &&
   principal.grantTypes.contains("authorization_code")
 };
