@@ -8,7 +8,7 @@
                 "7c52efd895db799901d8590a2c5e3a76539d4a6de514": {
                     "description": "Authorization policy",
                     "creation_date": "2025-06-09T12:32:26.114299",
-                    "policy_content": "QGlkKCJBdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGlzIEphbnM6Oldvcmtsb2FkLAogIGFjdGlvbiA9PSBKYW5zOjpBY3Rpb246OiJFeGVjdXRlIiwKICByZXNvdXJjZSBpcyBKYW5zOjpBcHBsaWNhdGlvbgopCndoZW4gewogIHByaW5jaXBhbC5ncmFudFR5cGVzLmNvbnRhaW5zKCJhdXRob3JpemF0aW9uX2NvZGUiKQp9Ow=="
+                    "policy_content": "QGlkKCJBdXRob3JpemF0aW9uIHBvbGljeSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhZG1pbiIsCiAgYWN0aW9uIGluIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoid3JpdGUiLCBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJkZWxldGUiXSwKICByZXNvdXJjZSBpcyBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkFkbWluCik7"
                 }
             },
             "trusted_issuers": {},
