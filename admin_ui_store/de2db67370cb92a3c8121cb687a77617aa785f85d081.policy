@@ -1,7 +1,0 @@
-permit (
-  principal in Gluu::Flex::AdminUI::Role::"manager",
-  action in [Gluu::Flex::AdminUI::Action::"read",
-  Gluu::Flex::AdminUI::Action::"write",
-  Gluu::Flex::AdminUI::Action::"delete"],
-  resource is Gluu::Flex::AdminUI::Resources::Attributes
-);
