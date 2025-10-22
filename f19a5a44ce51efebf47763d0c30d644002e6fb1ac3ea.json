@@ -4,7 +4,13 @@
         "f19a5a44ce51efebf47763d0c30d644002e6fb1ac3ea": {
             "name": "test_policy_store",
             "description": "test policies",
-            "policies": {},
+            "policies": {
+                "271574ccb02e7bb5218bc314ff221b21ad0256db8e1d": {
+                    "description": "allow_supreme_ruler",
+                    "creation_date": "2025-10-22T18:00:59.363694",
+                    "policy_content": "QGlkKCJhbGxvd19zdXByZW1lX3J1bGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiU3VwcmVtZVJ1bGVyIiwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                }
+            },
             "trusted_issuers": {
                 "24569ae3179272f985b083215e1008ff93181b0d28ac": {
                     "name": "test",
