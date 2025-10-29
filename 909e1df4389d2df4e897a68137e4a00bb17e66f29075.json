@@ -29,6 +29,11 @@
                     "description": "ManagerCanManageService",
                     "creation_date": "2025-10-29T06:53:56.594113",
                     "policy_content": "QGlkKCJNYW5hZ2VyQ2FuTWFuYWdlU2VydmljZSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJtYW5hZ2VyIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJkZWxldGUiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OlBhcmVudFJlc291cmNlOjoiU2VydmljZSIKKTs="
+                },
+                "bf58d0b64936551fd7898ce83d346f3a16c306480570": {
+                    "description": "AuditorCanManageClients",
+                    "creation_date": "2025-10-29T06:55:38.763777",
+                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlQ2xpZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhdWRpdG9yIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJkZWxldGUiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiQ2xpZW50cyIKKTs="
                 }
             },
             "trusted_issuers": {
