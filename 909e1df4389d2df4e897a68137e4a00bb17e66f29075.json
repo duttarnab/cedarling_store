@@ -19,6 +19,11 @@
                     "description": "AdminCanManageSystemMonitoring",
                     "creation_date": "2025-10-29T06:50:46.996189",
                     "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZVN5c3RlbU1vbml0b3JpbmciKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsCiAgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoid3JpdGUiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6UGFyZW50UmVzb3VyY2U6OiJTeXN0ZW1BbmRNb25pdG9yaW5nIgopOw=="
+                },
+                "c7232c3f5b612a3b0055298b5272c72e0b074bb55df3": {
+                    "description": "AdminCanManageService",
+                    "creation_date": "2025-10-29T06:52:31.115169",
+                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZVNlcnZpY2UiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsCiAgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoid3JpdGUiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6ImRlbGV0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6UGFyZW50UmVzb3VyY2U6OiJTZXJ2aWNlIgopOw=="
                 }
             },
             "trusted_issuers": {
