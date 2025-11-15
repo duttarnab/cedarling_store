@@ -1,6 +1,6 @@
 @id("AuditorCanReadSecurity")
 permit (
   principal in Gluu::Flex::AdminUI::Role::"auditor",
-  action == Gluu::Flex::AdminUI::Action::"read",
+  action in Gluu::Flex::AdminUI::Action::"read",
   resource in Gluu::Flex::AdminUI::Resources::Features::"Security"
 );
