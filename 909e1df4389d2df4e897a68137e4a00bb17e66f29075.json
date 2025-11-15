@@ -38,7 +38,7 @@
                 "603d854331dc7dfe12cae6641d289d9e755775e7062c": {
                     "description": "AuditorCanReadSecurity",
                     "creation_date": "2025-11-15T09:47:07.629562",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuUmVhZFNlY3VyaXR5IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiU2VjdXJpdHkiCik7"
+                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuUmVhZFNlY3VyaXR5IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIiwgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoiZGVsZXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNlY3VyaXR5IgopOw=="
                 }
             },
             "trusted_issuers": {
