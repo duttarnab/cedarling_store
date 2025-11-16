@@ -51,9 +51,9 @@
                     "policy_content": "QGlkKCJBdWRpdG9yQ2FuU2VlU2NvcGVzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTY29wZXMiCik7"
                 },
                 "f278cf62ae199dead90d218a713220cd9de23b5df524": {
-                    "description": "AuditorCanSeeScopes",
+                    "description": "AuditorCanSeeFIDO",
                     "creation_date": "2025-11-16T10:05:17.726591",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuU2VlU2NvcGVzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiA9PSBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiRklETyIKKTs="
+                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuU2VlRklETyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhdWRpdG9yIiwKICBhY3Rpb24gPT0gR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IkZJRE8iCik7"
                 },
                 "8daa232a546122021041039d9d93dc9397a5bdf46e85": {
                     "description": "AuditorCanSeeSCIM",
