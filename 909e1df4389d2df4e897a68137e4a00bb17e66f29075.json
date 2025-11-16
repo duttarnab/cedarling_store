@@ -41,9 +41,9 @@
                     "policy_content": "QGlkKCJBdWRpdG9yQ2FuUmVhZFNlY3VyaXR5IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIiwgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoiZGVsZXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNlY3VyaXR5IgopOw=="
                 },
                 "57f1ed865f687529aa3e8f759835ae5799dbda1e8c5b": {
-                    "description": "AuditorCanManageClients",
+                    "description": "AuditorCanSeeDashboard",
                     "creation_date": "2025-11-16T09:14:46.988679",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlQ2xpZW50cyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhdWRpdG9yIiwKICBhY3Rpb24gPT0gR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IkRhc2hib2FyZCIKKTs="
+                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuU2VlRGFzaGJvYXJkIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiA9PSBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiRGFzaGJvYXJkIgopOw=="
                 }
             },
             "trusted_issuers": {
