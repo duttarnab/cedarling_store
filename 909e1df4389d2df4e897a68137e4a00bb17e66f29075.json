@@ -36,9 +36,9 @@
                     "policy_content": "QGlkKCJWaWV3ZXJDYW5WaWV3VXNlcklkZW50aXR5QW5kQWNjZXNzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6UGFyZW50UmVzb3VyY2U6OiJJZGVudGl0eUFuZEFjY2VzcyIKKTs="
                 },
                 "603d854331dc7dfe12cae6641d289d9e755775e7062c": {
-                    "description": "AuditorCanReadSecurity",
+                    "description": "AuditorCanManageSecurity",
                     "creation_date": "2025-11-15T09:47:07.629562",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuUmVhZFNlY3VyaXR5IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIiwgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoiZGVsZXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNlY3VyaXR5IgopOw=="
+                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlU2VjdXJpdHkiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiYXVkaXRvciIsCiAgYWN0aW9uIGluIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSIsCiAgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoiZGVsZXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNlY3VyaXR5IgopOw=="
                 },
                 "57f1ed865f687529aa3e8f759835ae5799dbda1e8c5b": {
                     "description": "AuditorCanSeeDashboard",
