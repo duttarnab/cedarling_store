@@ -1,4 +1,4 @@
-@id("AuditorCanSeeScopes")
+@id("AuditorCanSeeFIDO")
 permit (
   principal in Gluu::Flex::AdminUI::Role::"auditor",
   action == Gluu::Flex::AdminUI::Action::"read",
