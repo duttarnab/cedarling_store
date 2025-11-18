@@ -299,6 +299,11 @@
                     "description": "editorCanWriteSecurity",
                     "creation_date": "2025-11-18T16:10:53.594951",
                     "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZVNlY3VyaXR5IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InRlc3QiLAogIGFjdGlvbiBpbiAgW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNlY3VyaXR5IgopOw=="
+                },
+                "1a4ca6178ff88e5d6fe8689080ce423a01c1b9e1c128": {
+                    "description": "testCanWriteSecurity",
+                    "creation_date": "2025-11-18T16:11:08.172301",
+                    "policy_content": "QGlkKCJ0ZXN0Q2FuV3JpdGVTZWN1cml0eSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJ0ZXN0IiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTZWN1cml0eSIKKTs="
                 }
             },
             "trusted_issuers": {
