@@ -114,6 +114,11 @@
                     "description": "ViewerCanSeeLogging",
                     "creation_date": "2025-11-18T10:29:43.921539",
                     "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVMb2dnaW5nIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJMb2dnaW5nIgopOw=="
+                },
+                "7a1d52ed6973f0148513a4d20343dbd95099a764c89d": {
+                    "description": "ViewerCanSeeConfigApiConfiguration",
+                    "creation_date": "2025-11-18T10:30:03.019415",
+                    "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVDb25maWdBcGlDb25maWd1cmF0aW9uIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJDb25maWdBcGlDb25maWd1cmF0aW9uIgopOw=="
                 }
             },
             "trusted_issuers": {
