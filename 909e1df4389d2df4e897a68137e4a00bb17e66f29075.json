@@ -234,6 +234,11 @@
                     "description": "editorCanWriteConfigApiConfiguration",
                     "creation_date": "2025-11-18T10:39:10.051125",
                     "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZUNvbmZpZ0FwaUNvbmZpZ3VyYXRpb24iKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiZWRpdG9yIiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJDb25maWdBcGlDb25maWd1cmF0aW9uIgopOw=="
+                },
+                "150d3e0c1fe976c8f64b7d88e11c3f207ca534ae0c3e": {
+                    "description": "editorCanWriteSession",
+                    "creation_date": "2025-11-18T10:39:21.724365",
+                    "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZVNlc3Npb24iKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiZWRpdG9yIiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTZXNzaW9uIgopOw=="
                 }
             },
             "trusted_issuers": {
