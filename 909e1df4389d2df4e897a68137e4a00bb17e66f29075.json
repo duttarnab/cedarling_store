@@ -304,6 +304,11 @@
                     "description": "testCanWriteSecurity",
                     "creation_date": "2025-11-18T16:11:08.172301",
                     "policy_content": "QGlkKCJ0ZXN0Q2FuV3JpdGVTZWN1cml0eSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJ0ZXN0IiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTZWN1cml0eSIKKTs="
+                },
+                "efee3c6981e239eb00066a4f91c00e4186a82c050f90": {
+                    "description": "testCanWriteSecurity",
+                    "creation_date": "2025-11-18T16:11:56.351117",
+                    "policy_content": "QGlkKCJ0ZXN0Q2FuV3JpdGVTZWN1cml0eSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJ0ZXN0IiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTZWN1cml0eSIKKTs="
                 }
             },
             "trusted_issuers": {
