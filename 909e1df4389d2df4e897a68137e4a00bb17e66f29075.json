@@ -74,6 +74,11 @@
                     "description": "VieweranSeeDashboard",
                     "creation_date": "2025-11-18T10:27:25.155141",
                     "policy_content": "QGlkKCJWaWV3ZXJhblNlZURhc2hib2FyZCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJ2aWV3ZXIiLAogIGFjdGlvbiA9PSBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiRGFzaGJvYXJkIgopOw=="
+                },
+                "513efbeb3d57141ced087a35c57ec01874aa4ba6909e": {
+                    "description": "VieweranSeeMAU",
+                    "creation_date": "2025-11-18T10:27:34.481871",
+                    "policy_content": "QGlkKCJWaWV3ZXJhblNlZU1BVSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJ2aWV3ZXIiLAogIGFjdGlvbiBpbiAgW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiTUFVIgopOw=="
                 }
             },
             "trusted_issuers": {
