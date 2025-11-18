@@ -59,6 +59,11 @@
                     "description": "AdminCanManageAuthServerConfiguration",
                     "creation_date": "2025-11-18T10:26:56.472378",
                     "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImFkbWluLXdyaXRlIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OlBhcmVudFJlc291cmNlOjoiQXV0aFNlcnZlckFuZENvbmZpZ3VyYXRpb24iCik7"
+                },
+                "f284069306b1f9904d5ba0285f54c96830192b009bfd": {
+                    "description": "AdminCanManageAuthServerConfiguration",
+                    "creation_date": "2025-11-18T10:27:06.346511",
+                    "policy_content": "QGlkKCJBZG1pbkNhbk1hbmFnZUF1dGhTZXJ2ZXJDb25maWd1cmF0aW9uIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImFkbWluLXdyaXRlIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OlBhcmVudFJlc291cmNlOjoiQXV0aFNlcnZlckFuZENvbmZpZ3VyYXRpb24iCik7"
                 }
             },
             "trusted_issuers": {
