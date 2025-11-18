@@ -154,6 +154,11 @@
                     "description": "ViewerCanSeeSMTP",
                     "creation_date": "2025-11-18T10:34:10.279973",
                     "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVTTVRQIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTTVRQIgopOw=="
+                },
+                "89e425cfebfc04267d0f0075e25cd840f005a0bd7895": {
+                    "description": "ViewerCanSeeSCIM",
+                    "creation_date": "2025-11-18T10:34:20.300595",
+                    "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVTQ0lNIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTQ0lNIgopOw=="
                 }
             },
             "trusted_issuers": {
