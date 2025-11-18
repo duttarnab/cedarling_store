@@ -219,6 +219,11 @@
                     "description": "editorCanWriteAuthenticationServerConfiguration",
                     "creation_date": "2025-11-18T10:38:41.126451",
                     "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZUF1dGhlbnRpY2F0aW9uU2VydmVyQ29uZmlndXJhdGlvbiIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJlZGl0b3IiLAogIGFjdGlvbiBpbiAgW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IkF1dGhlbnRpY2F0aW9uU2VydmVyQ29uZmlndXJhdGlvbiIKKTs="
+                },
+                "462f98ac79bba53ecf6296ffb936f50056d6e5efc946": {
+                    "description": "editorCanWriteLogging",
+                    "creation_date": "2025-11-18T10:38:50.925299",
+                    "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZUxvZ2dpbmciKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiZWRpdG9yIiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJMb2dnaW5nIgopOw=="
                 }
             },
             "trusted_issuers": {
