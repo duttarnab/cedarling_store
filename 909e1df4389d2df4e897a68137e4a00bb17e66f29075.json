@@ -204,6 +204,11 @@
                     "description": "editorCanSWriteAuditLogs",
                     "creation_date": "2025-11-18T10:36:02.636681",
                     "policy_content": "QGlkKCJlZGl0b3JDYW5TV3JpdGVBdWRpdExvZ3MiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiZWRpdG9yIiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJBdWRpdExvZ3MiCik7"
+                },
+                "7e60b71afc47034d36b28d748ba771e5b8e308799c8a": {
+                    "description": "editorCanWriteClients",
+                    "creation_date": "2025-11-18T10:36:12.867895",
+                    "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZUNsaWVudHMiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoiZWRpdG9yIiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIiwKICBHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJ3cml0ZSJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJDbGllbnRzIgopOw=="
                 }
             },
             "trusted_issuers": {
