@@ -39,11 +39,6 @@
                     "description": "AuditorCanManageScopes",
                     "creation_date": "2025-11-16T10:02:48.390836",
                     "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlU2NvcGVzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6ImF1ZGl0b3IiLAogIGFjdGlvbiBpbiBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIiwgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoiZGVsZXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNjb3BlcyIKKTs="
-                },
-                "f278cf62ae199dead90d218a713220cd9de23b5df524": {
-                    "description": "AuditorCanManageFIDO",
-                    "creation_date": "2025-11-16T10:05:17.726591",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlRklETyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhdWRpdG9yIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IkZJRE8iCik7"
                 }
             },
             "trusted_issuers": {
