@@ -134,11 +134,6 @@
                     "description": "ViewerCanSeeScripts",
                     "creation_date": "2025-11-18T10:33:00.335713",
                     "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVTY3JpcHRzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTY3JpcHRzIgopOw=="
-                },
-                "ef00121ca83562a0481e1e332436054b99acff5ceb31": {
-                    "description": "ViewerCanSeeScripts",
-                    "creation_date": "2025-11-18T10:33:11.919442",
-                    "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVTY3JpcHRzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJTY3JpcHRzIgopOw=="
                 }
             },
             "trusted_issuers": {
