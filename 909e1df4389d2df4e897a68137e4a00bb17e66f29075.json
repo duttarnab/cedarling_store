@@ -49,11 +49,6 @@
                     "description": "AuditorCanSeeSCIM",
                     "creation_date": "2025-11-16T10:05:33.204644",
                     "policy_content": "QGlkKCJBdWRpdG9yQ2FuU2VlU0NJTSIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhdWRpdG9yIiwKICBhY3Rpb24gPT0gR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IlNDSU0iCik7"
-                },
-                "0f5158e5ee857a63624431f8671a55ee89d62b9f1188": {
-                    "description": "AuditorCanManageSAML",
-                    "creation_date": "2025-11-16T10:05:55.416189",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuTWFuYWdlU0FNTCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJhdWRpdG9yIiwKICBhY3Rpb24gaW4gW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIixHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJkZWxldGUiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiU0FNTCIKKTs="
                 }
             },
             "trusted_issuers": {
