@@ -104,6 +104,11 @@
                     "description": "ViewerCanSeeKeys",
                     "creation_date": "2025-11-18T10:28:35.385432",
                     "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVLZXlzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJLZXlzIgopOw=="
+                },
+                "a24e92fe11fb12afce7017935681db569e3cb0e867d5": {
+                    "description": "ViewerCanSeeAuthenticationServerConfiguration",
+                    "creation_date": "2025-11-18T10:28:44.626383",
+                    "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVBdXRoZW50aWNhdGlvblNlcnZlckNvbmZpZ3VyYXRpb24iKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoidmlld2VyIiwKICBhY3Rpb24gaW4gIFtHbHV1OjpGbGV4OjpBZG1pblVJOjpBY3Rpb246OiJyZWFkIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IkF1dGhlbnRpY2F0aW9uU2VydmVyQ29uZmlndXJhdGlvbiIKKTs="
                 }
             },
             "trusted_issuers": {
