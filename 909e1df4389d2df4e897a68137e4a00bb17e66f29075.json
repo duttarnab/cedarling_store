@@ -84,6 +84,11 @@
                     "description": "ViewerCanSeeWebhooks",
                     "creation_date": "2025-11-18T10:27:54.065248",
                     "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVXZWJob29rcyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJ2aWV3ZXIiLAogIGFjdGlvbiBpbiAgW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiV2ViaG9va3MiCik7"
+                },
+                "50f1d794adc2d353ee2882cea31cf934e41aa54df358": {
+                    "description": "ViewerCanSeeAssests",
+                    "creation_date": "2025-11-18T10:28:03.778676",
+                    "policy_content": "QGlkKCJWaWV3ZXJDYW5TZWVBc3Nlc3RzIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6Um9sZTo6InZpZXdlciIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCJdLAogIHJlc291cmNlIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJlc291cmNlczo6RmVhdHVyZXM6OiJBc3Nlc3RzIgopOw=="
                 }
             },
             "trusted_issuers": {
