@@ -309,6 +309,11 @@
                     "description": "testCanWriteDashboard",
                     "creation_date": "2025-11-18T16:11:56.351117",
                     "policy_content": "QGlkKCJ0ZXN0Q2FuV3JpdGVEYXNoYm9hcmQiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSb2xlOjoidGVzdCIsCiAgYWN0aW9uIGluICBbR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoicmVhZCIsCiAgR2x1dTo6RmxleDo6QWRtaW5VSTo6QWN0aW9uOjoid3JpdGUiXSwKICByZXNvdXJjZSBpbiBHbHV1OjpGbGV4OjpBZG1pblVJOjpSZXNvdXJjZXM6OkZlYXR1cmVzOjoiRGFzaGJvYXJkIgopOw=="
+                },
+                "f6b665af7c0bd62ac86ec0f2a5bfcb7b574ec176136e": {
+                    "description": "editorCanWriteDashboard",
+                    "creation_date": "2025-11-19T17:23:30.898928",
+                    "policy_content": "QGlkKCJlZGl0b3JDYW5Xcml0ZURhc2hib2FyZCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEdsdXU6OkZsZXg6OkFkbWluVUk6OlJvbGU6OiJlZGl0b3IiLAogIGFjdGlvbiBpbiAgW0dsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6InJlYWQiLAogIEdsdXU6OkZsZXg6OkFkbWluVUk6OkFjdGlvbjo6IndyaXRlIl0sCiAgcmVzb3VyY2UgaW4gR2x1dTo6RmxleDo6QWRtaW5VSTo6UmVzb3VyY2VzOjpGZWF0dXJlczo6IkRhc2hib2FyZCIKKTs="
                 }
             },
             "trusted_issuers": {
